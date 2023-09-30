@@ -1,4 +1,4 @@
-# Aula 2🚀
+# Aula 1🚀
 
 Nessa aula aprendemos sobre variáveis, tipos de variáveis, variáveis primitivas
 
